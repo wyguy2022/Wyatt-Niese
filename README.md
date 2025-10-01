@@ -5,8 +5,6 @@ My Name is Wyatt Niese Im a CSE student @ The Ohio State University (GO BUCKS) a
 
 -🌱 I’m currently learning software II
 
--💬 Ask me about ...
-
 -📫 How to reach me: www.linkedin.com/in/wyatt-niese-53159b231
 
 -⚡ Fun fact: I can solve a rubix cube in under a minute
